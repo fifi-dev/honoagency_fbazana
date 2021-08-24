@@ -1,13 +1,15 @@
 // Variables
-@import "variables";
+@import "../helpers/variables.scss";
 
 
 body {
-  background-color: $background-color;
+  background-color: $dark-blue;
 
   font-family: degular,sans-serif;
   font-weight: 500;
   font-style: normal;
+  position: relative;
+  height: $fullHeight;
 }
 
 

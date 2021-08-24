@@ -1,0 +1,18 @@
+/* PALETTE DE COULEURS */
+/* PALETTE DE COULEURS */
+body {
+  background-color: #1C145A;
+  font-family: degular, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  position: relative;
+  height: 100vh;
+}
+
+h1 {
+  font-family: degular-display, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=style.css.map */
