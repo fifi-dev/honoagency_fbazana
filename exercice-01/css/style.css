@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* PALETTE DE COULEURS */
 .left_banner {
   position: absolute;
@@ -6,8 +7,42 @@
   left: 0px;
 }
 
+.cards {
+  position: relative;
+  margin: 10vh auto;
+}
+
+.cards button {
+  padding: 25px 0px;
+  width: 350px;
+  transform: rotate(-3deg);
+  color: #ffffff;
+  font-size: 16px;
+  background-color: #ED975D;
+  border: none;
+}
+
+.card2 {
+  background-color: #D65D56;
+  position: absolute;
+  width: 380px;
+  height: 65px;
+  z-index: -1;
+  top: 30px;
+  left: 12.5vw;
+}
+
+.cards img {
+  position: absolute;
+  left: 0;
+  width: 157px;
+  bottom: -100px;
+  left: 6vw;
+  z-index: -2;
+}
+
 .logo_img {
-  width: 300px;
+  width: 200px;
   margin: 10vh auto;
 }
 
@@ -45,6 +80,36 @@ h1 {
 img {
   width: 100%;
   height: auto;
+}
+
+/*étoile en haut à droite*/
+.right_star {
+  position: absolute;
+  width: 169px;
+  right: 10px;
+  top: -50px;
+}
+
+/*étoile du titre */
+.title {
+  position: relative;
+}
+
+.title .title_star {
+  position: absolute;
+  z-index: -1;
+  width: 100px;
+  left: 0;
+  top: -30px;
+  left: -20px;
+}
+
+/*étoile blanche*/
+.white_star {
+  position: absolute;
+  width: 60px;
+  right: -50px;
+  bottom: 10px;
 }
 
 /*# sourceMappingURL=style.css.map */

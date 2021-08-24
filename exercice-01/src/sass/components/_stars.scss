@@ -1,0 +1,30 @@
+/*étoile en haut à droite*/
+.right_star{
+    position: absolute;
+    width: 169px;
+    right: 10px;
+    top: -50px;
+}
+
+/*étoile du titre */
+.title{
+    position: relative;
+}
+
+.title .title_star{
+    position: absolute;
+    z-index: -1;
+    width: 100px;
+    left: 0;
+    top: -30px;
+    left: -20px;
+}
+
+/*étoile blanche*/
+
+.white_star{
+    position: absolute;
+    width: 60px;
+    right: -50px;
+    bottom: 10px;
+}

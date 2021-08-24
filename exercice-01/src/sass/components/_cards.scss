@@ -1,0 +1,33 @@
+.cards{
+    position: relative;
+    margin: 10vh auto;
+}
+
+.cards button{
+    padding: 25px 0px;
+    width: 350px;
+    transform: rotate(-3deg);
+    color: $white;
+    font-size: $contents;
+    background-color: $light-orange;
+    border: none;
+}
+
+.card2{
+    background-color: $dark-orange;
+    position: absolute;
+    width: 380px;
+    height: 65px;
+    z-index: -1;
+    top: 30px;
+    left: 12.5vw;
+}
+
+.cards img{
+    position: absolute;
+    left: 0;
+    width: 157px;
+    bottom: -100px;
+    left: 6vw;
+    z-index: -2;
+}
