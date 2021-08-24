@@ -26,6 +26,13 @@ h1 {
   font-family: degular-display, sans-serif;
   font-weight: 600;
   font-style: normal;
+  font-size: 54px;
+  color: #B3CFF9;
+}
+
+.centered-elements {
+  margin: auto 25vw;
+  text-align: center;
 }
 
 /* PALETTE DE COULEURS */

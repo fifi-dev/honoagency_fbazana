@@ -18,4 +18,11 @@ h1 {
   font-family: degular-display,sans-serif;
   font-weight: 600;
   font-style: normal;
+  font-size: $titre;
+  color: $light-blue;
+}
+
+.centered-elements{
+  margin: $auto 25vw;
+  text-align: center;
 }
