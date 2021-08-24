@@ -1,15 +1,13 @@
 #Recrutement Alternant 2021
 
-Dans le cadre du recrutement d'un alternant développeur pour l'année 2021 nous avons réalisés deux sujets d'excercice à réaliser.
-Ces deux petits excercices visent à vérifier vos compétences en :
-- HTML/SASS/YARN
-- PHP avec la réalisation d'un mini plugin WordPress
+Bonjour !
 
-Si vous avez des questions, vous pouvez nous les poser en créant un ticket sur ce projet.
+Merci pour l'attention que vous allez porter à ma candidature !
 
-À la fin de la réalisation, nous vous invitons à nous contacter à l'adresse : antoine@hono-agency.fr avec :
-- Le projet réalisé (soit un partage github soit en fichier .zip)
-- Votre planning d'alternance
-- Votre CV 
+J'ai eu quelques soucis avec gulp (voir image issue.png) mais j'ai fait au mieux pour repondre à vos attentes.
 
-:) 
+Merci d'executer la commander "sass --watch sass/style.scss ../css/style.css" dans le dossier "./src" . 
+
+Bien à vous,
+
+Fideline BAZANA NTOMO
