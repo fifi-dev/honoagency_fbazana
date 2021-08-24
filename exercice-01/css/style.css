@@ -1,4 +1,16 @@
 /* PALETTE DE COULEURS */
+.left_banner {
+  position: absolute;
+  width: 30vw;
+  top: -10vh;
+  left: 0px;
+}
+
+.logo_img {
+  width: 300px;
+  margin: 10vh auto;
+}
+
 /* PALETTE DE COULEURS */
 body {
   background-color: #1C145A;
@@ -7,12 +19,25 @@ body {
   font-style: normal;
   position: relative;
   height: 100vh;
+  overflow: hidden;
 }
 
 h1 {
   font-family: degular-display, sans-serif;
   font-weight: 600;
   font-style: normal;
+}
+
+/* PALETTE DE COULEURS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
 
 /*# sourceMappingURL=style.css.map */
